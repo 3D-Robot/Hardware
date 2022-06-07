@@ -1,0 +1,9 @@
+Raspberry Pi 4 (https://www.raspberrypi.com/products/raspberry-pi-4-model-b/)
+Arduino Nano  (https://store.arduino.cc/products/arduino-nano)
+tmc 5160 Step stick driver per each motor (https://www.biqu.equipment/products/tmc5160-pro-v1-0?_pos=2&_sid=4834e6a94&_ss=r)
+buck converters (20v to lower voltage as needed)
+hi voltage step up (https://www.amazon.com/Qianson-Converter-%C2%B145V-390V-Adjustable-Capacitor/dp/B01IVMU2XI/)
+DC motor driver (1 DC motor)
+Transistor switch (for the hi voltage step up)
+Power relay (probably your board :)
+
