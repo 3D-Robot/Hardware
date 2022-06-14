@@ -4,6 +4,8 @@ for more information visit [this link](https://j3drobot.wixsite.com/3d-robot).
 
 This project was made with these open-source software:
 
+* Dia
+
 * KiCAD
 
 * FreeCAD
