@@ -1,4 +1,4 @@
-15006727277929227
+15006729579919750
 3rd party footprints
 1X01
 PLATED THROUGH HOLE
@@ -63617,8 +63617,8 @@ QFN 8*8 mm
 48
 my_footprints
 UCR18EVH
-
-
+Thick film shunt resistors
+E24, 1% or 5%, shunt, sense,
 0
 2
 2
