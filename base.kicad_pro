@@ -404,7 +404,7 @@
       "idf": "",
       "netlist": "data/work/circuits_design/3D robot/base.net",
       "specctra_dsn": "",
-      "step": "",
+      "step": "base.step",
       "vrml": ""
     },
     "page_layout_descr_file": "/home/abode/kiCAD/working pages/default A3 working paper.kicad_wks"
