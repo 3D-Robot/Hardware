@@ -1,4 +1,4 @@
-22737172520416258
+22757072045445119
 3rd party footprints
 1X01
 PLATED THROUGH HOLE
@@ -6342,16 +6342,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 3rd party footprints
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
 3rd party footprints
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -9631,6 +9631,13 @@ QUAD FLAT NO LEADS PACKAGE
 0
 29
 29
+Antenna
+W3006
+2.4-2.5/5.15-7.125GHz Dual band Antenna
+2.4 GHz, 5 GHz, chip antenna
+0
+2
+2
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -58058,6 +58065,13 @@ connector Wuerth WR-WTB vertical
 10
 10
 Connectors
+1-282832-2
+12 male pins PCB connector
+male, connector
+0
+12
+12
+Connectors
 1-350942-0
 Rectangular Power Connectors, Wire-to-Board, 2 Positions, Printed Circuit Board, Universal MATE-N-LOK
 power, connector, 2 positions
@@ -58071,6 +58085,13 @@ power, connector, 4 positions
 0
 6
 4
+Connectors
+1-2199299-5
+DIP Sockets, 40 Position,Vertical, 2.54 mm pitch
+DIP, 40 Position, TH, connector
+0
+40
+40
 Connectors
 282856-8
 PCB Terminal Blocks, Header, Wire-to-Board, 8 Positions
@@ -58093,12 +58114,40 @@ connectors, terminal, 1776113-2, screw terminal
 2
 2
 Connectors
+BBL-112-G-E
+Low Profile Single Row Machined Header connector
+
+0
+12
+12
+Connectors
 NEB 21 R
 power Barrel jack
 connector, power
 0
 3
 3
+Connectors
+SL-110-G-10
+LOW-PROFILE MACHINED SOCKET STRIPS CONNECTOR
+
+0
+10
+10
+Connectors
+SL-112-G-10
+LOW-PROFILE MACHINED SOCKET STRIPS CONNECTOR
+
+0
+12
+12
+Connectors
+TS-110-G-AA
+
+
+0
+10
+10
 Connectors
 USB-A 2.0 female
 USB-A 2.0 female
@@ -63119,6 +63168,13 @@ PLCC
 20
 20
 ICs
+BD9F800MUX-Z
+4.5V to 28V Input, 8.0A Integrated MOSFET Single Synchronous Buck DC/DC Converter
+VQFN, 3.5*3.5 mm, DC/DC, Buck, Integrated MOSFETs
+0
+13
+11
+ICs
 BD9611MUV-E2
 60V Synchronous Step-down Switching Regulator (Controller Type)
 VQFN020V4040,QFN,4*4mm
@@ -63202,6 +63258,20 @@ LT8392EUFD-PBF
 0
 29
 29
+ICs
+LTC3775EUD
+High Frequency Synchronous Step-Down Voltage Mode DC/DC Controller
+QFN, 3*3 mm
+0
+17
+17
+ICs
+LTC3775IUD
+High Frequency Synchronous Step-Down Voltage Mode DC/DC Controller
+QFN, 3*3 mm
+0
+17
+17
 ICs
 LTC3851AIUD-PBF
 Synchronous Step-Down Switching Regulator Controller
@@ -63300,6 +63370,13 @@ QFN 8*8 mm
 0
 48
 48
+ICs
+WL1807MOD
+dual band combo, 2x2 MIMO Wi-Fi module
+QFM, wifi, WiFI, wireless, 2.4GHz, 5GHz, dual-band, MIMO
+0
+68
+65
 ICs
 mcp6561ut-e-ot
 1.8V Low-Power Push-Pull Output Comparator
@@ -72856,8 +72933,8 @@ LFCSP-WD NoLead
 24
 11
 Package_CSP
-Maxim_WLCSP-32_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
-WLCSP-32, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
+Maxim_WLCSP-35_3.0x2.17mm_Layout7x5_P0.4mm_Ball0.27mm_Pad0.25mm
+WLCSP-35, 2.168x2.998mm, 35 Ball, 7x5 Layout, 0.4mm Pitch, https://pdfserv.maximintegrated.com/package_dwgs/21-100489.PDF
 CSP 35 0.4
 0
 35
@@ -96263,3 +96340,10 @@ varistor SIOV
 0
 2
 2
+base TH
+TMC5160-WA TH
+Universal high voltage controller/driver for two-phase bipolar stepper motor
+QFN 8*8 mm
+0
+48
+48

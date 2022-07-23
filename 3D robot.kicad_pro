@@ -330,7 +330,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Connectors"
+    ]
   },
   "meta": {
     "filename": "3D robot.kicad_pro",
