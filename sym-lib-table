@@ -1,2 +1,3 @@
 (sym_lib_table
+  (lib (name "SMD2TH")(type "KiCad")(uri "${KIPRJMOD}/SMD2TH.kicad_sym")(options "")(descr "")(disabled))
 )

@@ -1,4 +1,4 @@
-22757072045445119
+22770349554247674
 3rd party footprints
 1X01
 PLATED THROUGH HOLE
@@ -6342,16 +6342,16 @@ SPARKFUN FLAME LOGO - 0.4" HEIGHT - SILKSCREEN
 0
 0
 3rd party footprints
-SFE_LOGO_FLAME_.5
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.05
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
 0
 0
 0
 3rd party footprints
-SFE_LOGO_FLAME_.05
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
-SPARKFUN FLAME LOGO - 0.05" HEIGHT - SILKSCREEN
+SFE_LOGO_FLAME_.5
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
+SPARKFUN FLAME LOGO - 0.5" HEIGHT - SILKSCREEN
 0
 0
 0
@@ -15928,6 +15928,13 @@ Capacitors
 C0603X105J4RACTU
 Surface Mount Multilayer Ceramic Chip Capacitors with Flexible Termination System 
 16*08mm
+0
+2
+2
+Capacitors
+R82DCXXXXCK50K
+General Purpose Metallized Polyester Film Capacitors, TH Radial, 5 mm Lead Spacing
+capacitor, TH, through hole
 0
 2
 2
@@ -58114,12 +58121,26 @@ connectors, terminal, 1776113-2, screw terminal
 2
 2
 Connectors
+BBL-110-G-E
+
+
+0
+10
+10
+Connectors
 BBL-112-G-E
 Low Profile Single Row Machined Header connector
 
 0
 12
 12
+Connectors
+HTS-110-G-AA
+
+
+0
+10
+10
 Connectors
 NEB 21 R
 power Barrel jack
@@ -58143,8 +58164,8 @@ LOW-PROFILE MACHINED SOCKET STRIPS CONNECTOR
 12
 Connectors
 TS-110-G-AA
-
-
+THOUGH HOLE VERTICAL, 10 POSITION Connector Board-to-Board
+connector
 0
 10
 10
@@ -63364,6 +63385,13 @@ SOIC127P600X175-14N
 14
 14
 ICs
+TMC2209 silent step stick
+Step/Dir Drivers for Two-Phase Bipolar Stepper Motors up to 2.8A peak – StealthChopTM for Quiet Movement – UART Interface Option – Sensorless Stall Detection StallGuard4
+step motor, controller
+0
+19
+17
+ICs
 TMC5160-WA
 Universal high voltage controller/driver for two-phase bipolar stepper motor
 QFN 8*8 mm
@@ -68232,6 +68260,13 @@ Modules
 Raspberry pi GPIO
 Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
 Through hole socket strip THT 2x20 2.54mm double row, Raspberry pi, GPIO
+0
+40
+40
+Modules
+Raspberry_Pi_Zero_Socketed_THT_FaceDown_MountingHoles
+Raspberry Pi Zero using through hole straight pin socket, 2.54mm pitch
+raspberry pi zero through hole
 0
 40
 40
@@ -96341,7 +96376,35 @@ varistor SIOV
 2
 2
 base TH
-TMC5160-WA TH
+LM2596
+adjustable DC-DC converter from amazon
+
+0
+4
+4
+base TH
+LM5143 PCB
+
+
+0
+48
+48
+base TH
+LM5143 footprint
+
+
+0
+48
+48
+base TH
+TMC5160-WA TH PCB
+Universal high voltage controller/driver for two-phase bipolar stepper motor
+QFN 8*8 mm
+0
+48
+48
+base TH
+TMC5160-WA TH footprint
 Universal high voltage controller/driver for two-phase bipolar stepper motor
 QFN 8*8 mm
 0
