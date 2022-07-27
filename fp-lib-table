@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name "base TH")(type "KiCad")(uri "${KIPRJMOD}/base TH.pretty")(options "")(descr "")(disabled))
+)

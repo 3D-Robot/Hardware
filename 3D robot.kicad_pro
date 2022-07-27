@@ -330,7 +330,9 @@
   },
   "libraries": {
     "pinned_footprint_libs": [],
-    "pinned_symbol_libs": []
+    "pinned_symbol_libs": [
+      "Connectors"
+    ]
   },
   "meta": {
     "filename": "3D robot.kicad_pro",
@@ -365,12 +367,12 @@
     "last_paths": {
       "gencad": "",
       "idf": "",
-      "netlist": "",
+      "netlist": "base.net",
       "specctra_dsn": "",
       "step": "",
       "vrml": ""
     },
-    "page_layout_descr_file": ""
+    "page_layout_descr_file": "/home/abode/kiCAD/working pages/default A3 working paper.kicad_wks"
   },
   "schematic": {
     "annotate_start_num": 0,
@@ -393,7 +395,7 @@
     "meta": {
       "version": 1
     },
-    "net_format_name": "",
+    "net_format_name": "KiCad",
     "ngspice": {
       "fix_include_paths": true,
       "fix_passive_vals": false,
@@ -403,7 +405,7 @@
       "model_mode": 0,
       "workbook_filename": ""
     },
-    "page_layout_descr_file": "${KICAD_USER_TEMPLATE_DIR}/working page/default A0 working paper.kicad_wks",
+    "page_layout_descr_file": "/home/abode/kiCAD/working pages/default A0 working paper.kicad_wks",
     "plot_directory": "./",
     "spice_adjust_passive_values": false,
     "spice_external_command": "spice \"%I\"",
@@ -416,52 +418,64 @@
       ""
     ],
     [
-      "66cfe514-3ef8-41b3-953a-751f4ea4da8a",
-      "stepper and controller"
-    ],
-    [
-      "247a8da2-b9d8-4b31-b10d-d2fc708575de",
+      "e46fc2a7-7f35-4b6b-9132-bc64308f9f63",
       "stepper and controller1"
     ],
     [
-      "685a12cf-a3f5-4f80-aebc-5b6b052d91e3",
+      "0d5e6a3a-4a0a-4c4a-aa14-291b64cffa62",
       "stepper and controller2"
     ],
     [
-      "6d86868e-b754-40cb-a621-2a453583cce6",
-      "stepper and controller5"
+      "91b0fbad-75db-42f6-9bd3-c484ff0e0884",
+      "stepper and controller"
     ],
     [
-      "10f31e44-e99a-41e8-8347-54524a0cc6c0",
+      "6629ef60-d56e-47b6-a57b-0b307ab9e12a",
       "stepper and controller4"
     ],
     [
-      "0e056b1d-d923-4041-9300-bf01c69ce1a4",
+      "f2b0dd28-8959-4cce-b3f3-fabd58caf6e5",
       "stepper and controller3"
     ],
     [
-      "0bd25f71-c9d4-4788-b476-84da7d193662",
-      "stepper and controller8"
+      "6d5b4e65-0ff8-4c24-be81-1a05865bd588",
+      "stepper and controller5"
     ],
     [
-      "6a606628-abb4-479e-9db8-8139e308f905",
+      "f46ff2f2-03ad-475f-9dec-72918dd589e1",
       "stepper and controller7"
     ],
     [
-      "8561e796-ed6b-41a6-899d-57e12da516f6",
+      "8e198486-4e85-4e3b-a54c-59bd4fadaeb4",
       "stepper and controller6"
     ],
     [
-      "fc2f6d23-1c11-46b9-93a1-02b1a0baffe4",
+      "e67475a8-d982-4f04-87c3-675cea2f07e3",
       "stepper and controller9"
     ],
     [
-      "bc5d65ac-ba0d-4351-81f4-1ccee3f2213c",
+      "4d1db926-10e0-4475-b0e4-d8dc2ed8de52",
+      "stepper and controller8"
+    ],
+    [
+      "594edeaf-2297-40d8-b1d2-47a0a4079a77",
+      "Buck converter 7.4"
+    ],
+    [
+      "adef2cb8-9a87-4ae6-94ea-e7ade9459c8c",
+      "Base"
+    ],
+    [
+      "b31426da-0b84-4b2b-8160-886ddf085487",
       "Buck converter 5 and 12"
     ],
     [
-      "4d90bfcb-abb8-42b6-8b4f-7aa1f8970176",
-      "Buck converter 7.4"
+      "e7281a65-35c0-4d48-a1de-cbd6e1f91b63",
+      "Right arm"
+    ],
+    [
+      "1cf568d0-f9ee-420b-b22c-78e2e0d24af8",
+      "Left arm"
     ]
   ],
   "text_variables": {}
