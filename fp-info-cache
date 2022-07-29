@@ -1,4 +1,4 @@
-22770349554247674
+22762056036887356
 3rd party footprints
 1X01
 PLATED THROUGH HOLE
@@ -96375,38 +96375,3 @@ varistor SIOV
 0
 2
 2
-base TH
-LM2596
-adjustable DC-DC converter from amazon
-
-0
-4
-4
-base TH
-LM5143 PCB
-
-
-0
-48
-48
-base TH
-LM5143 footprint
-
-
-0
-48
-48
-base TH
-TMC5160-WA TH PCB
-Universal high voltage controller/driver for two-phase bipolar stepper motor
-QFN 8*8 mm
-0
-48
-48
-base TH
-TMC5160-WA TH footprint
-Universal high voltage controller/driver for two-phase bipolar stepper motor
-QFN 8*8 mm
-0
-48
-48
